@@ -1,0 +1,19 @@
+{
+  "name": "joshwhatk/wordpress-function-mocker",
+  "description": "Wordpress functions that return nothing.",
+  "keywords": [
+    "wordpress", "testing"
+  ],
+  "authors": [
+    {
+      "name": "Josh Friend",
+      "email": "joshwhatk@gmail.com",
+      "homepage": "https://github.com/joshwhatk"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/functions.php"
+    ]
+  }
+}
