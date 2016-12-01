@@ -1,2 +1,2 @@
 # wordpress-function-mocker
-Mock Wordpress functions to enable passing tests.
+Mock WordPress functions to enable passing tests.

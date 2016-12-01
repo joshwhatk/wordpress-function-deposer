@@ -1,6 +1,6 @@
 {
   "name": "joshwhatk/wordpress-function-deposer",
-  "description": "Wordpress functions that return nothing.",
+  "description": "WordPress functions that return nothing.",
   "keywords": [
     "wordpress", "testing"
   ],
